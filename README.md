@@ -1,4 +1,4 @@
-![Simcoder Banner](banner.gif "Simcoder Banner")
+![Simcoder Banner](banner_simcoder.gif "Simcoder Banner")
 
 
 <!--
