@@ -1,4 +1,5 @@
-### Hi there 👋
+![Simcoder Banner](banner.gif "Simcoder Banner")
+
 
 <!--
 **SimCoderYoutube/SimCoderYoutube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
